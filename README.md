@@ -4,5 +4,5 @@
 
 ### Задание 1. HTML/CSS
 
-файлы: </tree/main/chat><br>
-результат: </chat>
+файлы: <https://github.com/Junior-web/test-task/tree/main/chat><br>
+результат: <https://junior-web.github.io/test-task/chat>
