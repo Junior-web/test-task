@@ -9,7 +9,7 @@
 
 ### Задание MySQL
 
-файлы: <https://github.com/Junior-web/test-task/tree/main/sql>
+<https://github.com/Junior-web/test-task/blob/main/sql/sql-task>
 
 ### Задание JavaScript
 
