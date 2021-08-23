@@ -1,23 +1,23 @@
-SELECT "2021-01" as `дата`, EXTRACT(DAY FROM LAST_DAY("2021-01-01")) as `количество дней`
+SELECT "2021-01" as `месяц`, EXTRACT(DAY FROM LAST_DAY("2021-01-01")) as `количество дней`
 UNION
-SELECT "2021-02" as `дата`, EXTRACT(DAY FROM LAST_DAY("2021-02-01")) as `количество дней`
+SELECT "2021-02" as `месяц`, EXTRACT(DAY FROM LAST_DAY("2021-02-01")) as `количество дней`
 UNION
-SELECT "2021-03" as `дата`, EXTRACT(DAY FROM LAST_DAY("2021-03-01")) as `количество дней`
+SELECT "2021-03" as `месяц`, EXTRACT(DAY FROM LAST_DAY("2021-03-01")) as `количество дней`
 UNION
-SELECT "2021-04" as `дата`, EXTRACT(DAY FROM LAST_DAY("2021-04-01")) as `количество дней`
+SELECT "2021-04" as `месяц`, EXTRACT(DAY FROM LAST_DAY("2021-04-01")) as `количество дней`
 UNION
-SELECT "2021-05" as `дата`, EXTRACT(DAY FROM LAST_DAY("2021-05-01")) as `количество дней`
+SELECT "2021-05" as `месяц`, EXTRACT(DAY FROM LAST_DAY("2021-05-01")) as `количество дней`
 UNION
-SELECT "2021-06" as `дата`, EXTRACT(DAY FROM LAST_DAY("2021-06-01")) as `количество дней`
+SELECT "2021-06" as `месяц`, EXTRACT(DAY FROM LAST_DAY("2021-06-01")) as `количество дней`
 UNION
-SELECT "2021-07" as `дата`, EXTRACT(DAY FROM LAST_DAY("2021-07-01")) as `количество дней`
+SELECT "2021-07" as `месяц`, EXTRACT(DAY FROM LAST_DAY("2021-07-01")) as `количество дней`
 UNION
-SELECT "2021-08" as `дата`, EXTRACT(DAY FROM LAST_DAY("2021-08-01")) as `количество дней`
+SELECT "2021-08" as `месяц`, EXTRACT(DAY FROM LAST_DAY("2021-08-01")) as `количество дней`
 UNION
-SELECT "2021-09" as `дата`, EXTRACT(DAY FROM LAST_DAY("2021-09-01")) as `количество дней`
+SELECT "2021-09" as `месяц`, EXTRACT(DAY FROM LAST_DAY("2021-09-01")) as `количество дней`
 UNION
-SELECT "2021-10" as `дата`, EXTRACT(DAY FROM LAST_DAY("2021-10-01")) as `количество дней`
+SELECT "2021-10" as `месяц`, EXTRACT(DAY FROM LAST_DAY("2021-10-01")) as `количество дней`
 UNION
-SELECT "2021-11" as `дата`, EXTRACT(DAY FROM LAST_DAY("2021-11-01")) as `количество дней`
+SELECT "2021-11" as `месяц`, EXTRACT(DAY FROM LAST_DAY("2021-11-01")) as `количество дней`
 UNION
-SELECT "2021-12" as `дата`, EXTRACT(DAY FROM LAST_DAY("2021-12-01")) as `количество дней`
+SELECT "2021-12" as `месяц`, EXTRACT(DAY FROM LAST_DAY("2021-12-01")) as `количество дней`
